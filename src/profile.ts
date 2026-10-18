@@ -35,7 +35,7 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "A decision that I am proud of is that I moved from New York to Virginia for my job. That decision furthered my career due to living near where the majority of the industry is located.",
+    "A decision that I am proud of is that I moved from New York to Virginia for my job. That decision furthered my career due to living near where the majority of the industry is located, and creates new opportunities.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
