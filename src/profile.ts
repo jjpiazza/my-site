@@ -31,6 +31,7 @@ export const profile = {
   funFacts: [
     "I've been surfing off the coast of Portugal.",
     "I ran a non-profit organization in New York for about 2 years.",
+    "First job I had was working in restuarants.",
   ],
 
   /** One decision you're proud of, in a sentence. */
